@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MyALC4Challenge</string>
+    <string name="hi_there">Hi There!</string>
+    <string name="you_re_welcome">You\'re Welcome</string>
+    <string name="please_select_your_preferred_option_below">Please select your preferred option below</string>
+    <string name="about_alc">About ALC</string>
+    <string name="my_portfolio">About Me</string>
+    <string name="myimage">myImage</string>
+    <string name="my_name">My Name</string>
+    <string name="joseph_olugbohunmi">Joseph Olugbohunmi</string>
+    <string name="my_track">My Track</string>
+    <string name="android_development">Android Development</string>
+    <string name="my_country">My Country</string>
+    <string name="nigeria">Nigeria</string>
+    <string name="my_email">My Email</string>
+    <string name="joseolu4gsm_yahoo_com">joseolu4gsm@yahoo.com</string>
+    <string name="my_phone_number">My Phone Number</string>
+    <string name="_2348062951693">+2348062951693</string>
+</resources>
