@@ -1,4 +1,4 @@
-# MyALC4Challenge
-ALC 4.0 - 5 Days Code Challenge 1.0
+# InfoApp
+An App that shows full information about Me and ALC
 
 Download the App here --> https://drive.google.com/drive/folders/1xyTpndgb154OfAlHgDpLgBgfvq1c_7dK?usp=sharing
